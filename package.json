@@ -1,7 +1,7 @@
 {
-  "name": "@arepaswap/sdk",
+  "name": "@jjf7/arepaswap-sdk",
   "license": "MIT",
-  "version": "2.4.0",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of ArepaSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
